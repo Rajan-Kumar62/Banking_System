@@ -1,4 +1,4 @@
-# Bank Management System
+# Banking_System
 
 A Java-based Bank Management System with:
 - User authentication
